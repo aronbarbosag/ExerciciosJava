@@ -1,0 +1,3 @@
+abc123;a1;gol;2000;10000.0
+efg123;seila;chevrolet;40000;30000.0
+asdeerg21213;sdfsdfsdf;sfsdfsdf;290209290;9.290290290209E12
